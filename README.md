@@ -1,4 +1,4 @@
-# 👋 Hola, soy Ángel
+# 👋 Hola, soy Marcos
 
 🎓 Estudiante de Ingeniería de Telecomunicaciones en la UPV  
 🧠 Interesado en señales, inteligencia artificial y salud digital  
