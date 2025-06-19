@@ -31,7 +31,7 @@ _Añadiré aquí mis proyectos a medida que los complete._
 - Mathematics for ML – Coursera
 
 ## 📫 Contacto
-
+- 🌐 [LinkedIn](https://www.linkedin.com/in/marcos-delicado-131640370/)
 - 📧 marcosdelicadog@gmail.com
 
 > — Marcos Delicado
