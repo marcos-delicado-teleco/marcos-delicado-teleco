@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hola, soy Ángel
 
-<!--
-**marcos-delicado-teleco/marcos-delicado-teleco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería de Telecomunicaciones en la UPV  
+🧠 Interesado en señales, inteligencia artificial y salud digital  
+💡 Aprendiendo Python, MATLAB y técnicas de Deep Learning  
+🔭 Este repositorio es una muestra de mis proyectos y progresos
 
-Here are some ideas to get you started:
+## 🚀 Intereses
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Procesamiento de señales biomédicas
+- Deep Learning aplicado a salud
+- Visualización de datos médicos
+- Programación en Python y MATLAB
+
+## 🧰 Herramientas que estoy aprendiendo
+
+- Python (NumPy, Matplotlib, Pandas)
+- MATLAB
+- Git y GitHub
+- Coursera, edX, Kaggle
+
+## 📚 Proyectos destacados
+
+_Añadiré aquí mis proyectos a medida que los complete._
+
+## 🌱 En formación
+
+- AI for Everyone – Coursera  
+- Python for Everybody – Coursera  
+- MATLAB Onramp – MathWorks  
+- Mathematics for ML – Coursera
+
+## 📫 Contacto
+
+- 📧 marcosdelicadog@gmail.com
+
+> — Marcos Delicado
