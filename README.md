@@ -1,7 +1,7 @@
 # 👋 Hola, soy Marcos
 
 🎓 Estudiante de Ingeniería de Telecomunicaciones en la UPV  
-🧠 Interesado en señales, inteligencia artificial y salud digital  
+🧠 Interesado en señales, inteligencia artificial 
 💡 Aprendiendo Python, MATLAB y técnicas de Deep Learning  
 🔭 Este repositorio es una muestra de mis proyectos y progresos
 
