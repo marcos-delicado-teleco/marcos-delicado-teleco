@@ -23,13 +23,6 @@
 
 _Añadiré aquí mis proyectos a medida que los complete._
 
-## 🌱 En formación
-
-- AI for Everyone – Coursera  
-- Python for Everybody – Coursera  
-- MATLAB Onramp – MathWorks  
-- Mathematics for ML – Coursera
-
 ## 📫 Contacto
 - 🌐 [LinkedIn](https://www.linkedin.com/in/marcos-delicado-131640370/)
 - 📧 marcosdelicadog@gmail.com
