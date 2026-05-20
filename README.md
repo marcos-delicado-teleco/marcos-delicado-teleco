@@ -21,8 +21,9 @@
 
 ## 📚 Proyectos destacados
 
-[Telco-Analysis-5G-Power-BI](https://github.com/marcos-delicado-teleco/Telco-Analysis-5G-Power-BI)
-[Teleco/pi-network-monitor](https://github.com/marcos-delicado-teleco/pi-network-monitor)
+-[Telco-Analysis-5G-Power-BI](https://github.com/marcos-delicado-teleco/Telco-Analysis-5G-Power-BI)
+-[Teleco/pi-network-monitor](https://github.com/marcos-delicado-teleco/pi-network-monitor)
+-[Subdermal-RF-Simulator-MATLAB](https://github.com/marcos-delicado-teleco/Subdermal-RF-Simulator-MATLAB)
 
 ## 📫 Contacto
 - 🌐 [LinkedIn](https://www.linkedin.com/in/marcos-delicado-131640370/)
