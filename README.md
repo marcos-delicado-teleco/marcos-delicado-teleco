@@ -21,7 +21,7 @@
 
 ## 📚 Proyectos destacados
 
-
+[Telco-Analysis-5G-Power-BI](https://github.com/marcos-delicado-teleco/Telco-Analysis-5G-Power-BI)
 
 ## 📫 Contacto
 - 🌐 [LinkedIn](https://www.linkedin.com/in/marcos-delicado-131640370/)
