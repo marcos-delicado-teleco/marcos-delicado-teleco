@@ -12,13 +12,15 @@
 - Visualización de datos médicos
 - Programación en Python y MATLAB
 
-## 🧰 Herramientas que estoy aprendiendo
+## 🧰 Herramientas
 
 - Python (NumPy, Matplotlib, Pandas)
 - MATLAB
 - Git y GitHub
 - Coursera, edX, Kaggle
-
+- Grafana, Influxdb
+- Linux, Docker
+- Power BI 
 ## 📚 Proyectos destacados
 
 - [Telco-Analysis-5G-Power-BI](https://github.com/marcos-delicado-teleco/Telco-Analysis-5G-Power-BI)
