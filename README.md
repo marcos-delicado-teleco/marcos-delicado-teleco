@@ -21,7 +21,7 @@
 
 ## 📚 Proyectos destacados
 
-_Añadiré aquí mis proyectos a medida que los complete._
+
 
 ## 📫 Contacto
 - 🌐 [LinkedIn](https://www.linkedin.com/in/marcos-delicado-131640370/)
