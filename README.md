@@ -27,6 +27,7 @@
 - [Teleco/pi-network-monitor](https://github.com/marcos-delicado-teleco/pi-network-monitor)
 - [Subdermal-RF-Simulator-MATLAB](https://github.com/marcos-delicado-teleco/Subdermal-RF-Simulator-MATLAB)
 - [ECG-Arritmias](https://github.com/marcos-delicado-teleco/ECG-Arritmias)
+- [Medical-multimoda-ai](https://github.com/marcos-delicado-teleco/Medical-multimoda-ai)
 
 ## 📫 Contacto
 - 🌐 [LinkedIn](https://www.linkedin.com/in/marcos-delicado-131640370/)
